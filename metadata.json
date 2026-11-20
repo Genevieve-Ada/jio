@@ -1,0 +1,6 @@
+{
+  "name": "Home Decor",
+  "description": "Curated sustainable home decor showcase featuring lighting, furniture, wall art, and handcrafted accents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
